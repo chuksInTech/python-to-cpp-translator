@@ -2,7 +2,7 @@
 
 
 
-This project converts Python code into highly optimized C++ code using powerful language models like **OpenAI GPT (gpt-4o-mini)** and **Anthropic Claude (claude-3-haiku).
+This project converts Python code into highly optimized C++ code using powerful language models like OpenAI GPT (gpt-4o-mini) and Anthropic Claude (claude-3-haiku).
 
 
 Built with Gradio, this tool provides a live web interface where users can:
